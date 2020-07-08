@@ -129,6 +129,20 @@ void mainScene::init()
 	cursor_y = 294;
 }
 
+void mainScene::Solo()
+{
+	;
+}
+void mainScene::Duet()
+{
+	;
+}
+void mainScene::Design()
+{
+	;
+}
+
+
 mainScene::~mainScene()
 {
 }
